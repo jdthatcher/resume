@@ -1,6 +1,5 @@
 # Jonathan Thatcher 
-## Creative Director - Frontend Developer - Artist - Human
-## Spring 2020
+## Creative Director - Frontend Developer - Artist - Human | Spring 2020
 ### Profile
 A relational creator, that finds beauty in silence yet delights in noise. Experienced in working in creative environments from bands to law firms. Well travelled globally and cognitively.
 ### Objectives
@@ -30,7 +29,7 @@ Bass Player - studio and touring
 Webmaster - created and maintained band website
 Video creation for live shows and promotional material 
 
-##### Webmaster
+#### Webmaster
 Company Name: Furious records
 Dates Employed: Jan 1996 – Nov 2009
 Employment Duration: 13 yrs 
