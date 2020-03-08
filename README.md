@@ -12,10 +12,10 @@ A relational creator, that finds beauty in silence yet delights in noise. Experi
 - Company Name: Waller Lansden Dortch and Davis
 - Dates Employed: Jul 2012 – Present
 
-- Designed and developed the firms intranet.
-- Designed and developed internal applications (floor maps, directories, business solutions) 
-- Tool set: VS code, Photoshop, Illustrator, Wordpress.
-- Primary Languages: CSS (SCSS) Html, VUE, Angular.
+     - Designed and developed the firms intranet.
+     - Designed and developed internal applications (floor maps, directories, business solutions) 
+     - Tool set: VS code, Photoshop, Illustrator, Wordpress.
+     - Primary Languages: CSS (SCSS) Html, VUE, Angular.
 
 #### Freelance Creative Director
 - Company Name: Comsynth
