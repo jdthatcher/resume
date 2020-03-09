@@ -10,10 +10,10 @@ To work for and with like minded professionals that will develop solutions that 
 - Company Name: Waller Lansden Dortch and Davis (a law firm).
 - Dates Employed: Jul 2012 -  Present.
 
--- Designed and developed the firm's intranet. 
-- Designed and developed all internal applications (floor maps, directories, business solutions).
-- Tool set: VS code, Photoshop, Illustrator, WordPress. 
-- Primary Languages: CSS (SCSS) HTML, VUE, Angular.
+ - Designed and developed the firm's intranet. 
+ - Designed and developed all internal applications (floor maps, directories, business solutions).
+ - Tool set: VS code, Photoshop, Illustrator, WordPress. 
+ - Primary Languages: CSS (SCSS) HTML, VUE, Angular.
 ### Freelance Creative Director
 - Company Name: Comsynth (a media agency).
 - Dates Employed: Mar 2007 - Present.
