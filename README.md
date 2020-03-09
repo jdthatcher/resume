@@ -1,6 +1,6 @@
 # Jonathan Thatcher 
 ### Creative Director - Frontend Developer - Artist
-### Spring 2020
+##### Spring 2020
 ## Profile
 A relational creative, that finds beauty in silence and delights in noise. Experienced in working in diverse environments ranging from rock bands to law firms. Well travelled globally and cognitively.
 ## Objectives
@@ -10,7 +10,7 @@ To work for and with like minded professionals that will develop solutions that 
 - Company Name: Waller Lansden Dortch and Davis (a law firm).
 - Dates Employed: Jul 2012 -  Present.
 
-- Designed and developed the firm's intranet. 
+-- Designed and developed the firm's intranet. 
 - Designed and developed all internal applications (floor maps, directories, business solutions).
 - Tool set: VS code, Photoshop, Illustrator, WordPress. 
 - Primary Languages: CSS (SCSS) HTML, VUE, Angular.
