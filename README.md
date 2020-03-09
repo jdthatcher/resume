@@ -35,9 +35,9 @@ To work for and with like minded professionals that will develop solutions that 
 - Company Name: Furious Records (an independent record label).
 - Dates Employed: Jan 1996 - Nov 2009.
 - Employment Duration: 13 yrs.
- - Founded, owned and directed a small business.
- - Created and maintained a family of websites. 
- - Ecommerce, email distribution, social media.
+  - Founded, owned and directed a small business.
+  - Created and maintained a family of websites. 
+  - Ecommerce, email distribution, social media.
   - Tool set: Dreamweaver, WordPress, Final cut.
 ### Live Mix Engineer
 - Company Name: A Marshall Hospitality (a restaurant owner).
