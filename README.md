@@ -60,5 +60,5 @@ To work for and with like minded professionals that will develop solutions that 
 
 - Nationality: British, American.
 - Permanent residence: Franklin, TN, USA.
-- Online: Online: [GitHub] // [LinkedIn] // [thatcher@comsynth.com]{mailto:thatcher@comsynth.com}
+- Online: Online: [GitHub] // [LinkedIn] {https://github.com/comsynth/resume/} // [thatcher@comsynth.com] {mailto:thatcher@comsynth.com}
 
