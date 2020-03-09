@@ -2,7 +2,7 @@
 ### Creative Director - Frontend Developer - Artist
 ##### Spring 2020
 ## Profile
-A relational creative, that finds beauty in silence and delights in noise. Experienced in working in diverse environments ranging from rock bands to law firms. Well travelled globally and cognitively.
+> A relational creative, that finds beauty in silence and delights in noise. Experienced in working in diverse environments ranging from rock bands to law firms. Well travelled globally and cognitively.
 ## Objectives
 To work for and with like minded professionals that will develop solutions that make this world a little better. To create, connect and belong within thriving workplace communities.
 ## Recent Endeavors
