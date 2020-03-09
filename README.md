@@ -1,4 +1,4 @@
-❮img src="thatcher.jpg" ❯
+![](thatcher.jpg)
 # Jonathan Thatcher 
 ### Creative Director - Frontend Developer - Artist
 ## Profile
