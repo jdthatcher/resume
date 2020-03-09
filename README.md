@@ -39,10 +39,10 @@ To work for and with like minded professionals that will develop solutions that 
 - Dates Employed: Jan 1996 - Nov 2009.
 - Employment Duration: 13 yrs.
 
-- Founded, owned and directed a small business.
-- Created and maintained a family of websites. 
-- Ecommerce, email distribution, social media.
-Tool set: Dreamweaver, WordPress, Final cut.
+ - Founded, owned and directed a small business.
+ - Created and maintained a family of websites. 
+ - Ecommerce, email distribution, social media.
+  - Tool set: Dreamweaver, WordPress, Final cut.
 ### Live Mix Engineer
 - Company Name: A Marshall Hospitality (a restaurant owner).
 - Dates Employed: June 2010 - June 2018.
