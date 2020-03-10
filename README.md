@@ -22,7 +22,7 @@ To work for and with like minded professionals that will develop solutions that 
   - Tool set: Photoshop, Illustrator, Wordpress.
 ### Professional Musician
 - Company Name: Delirious (a rock band).
-- Record Labels: Furious Records, Virgin Records, EMI.
+- Record Labels: Furious Records, Virgin Records, Sparrow Records, EMI.
 - Dates Employed: Apr 1997 - Nov 2009. 
 - Employment Duration: 12 yrs.
   - Bass Player - studio and touring .
