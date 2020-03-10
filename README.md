@@ -9,7 +9,6 @@ To work for and with like minded professionals that will develop solutions that 
 ### Frontend Web Developer
 - Company Name: Waller Lansden Dortch and Davis (a law firm).
 - Dates Employed: Jul 2012 -  Present.
-
   - Designed and developed the firm's intranet. 
   - Designed and developed all internal applications (floor maps, directories, business solutions).
   - Tool set: VS code, Photoshop, Illustrator, WordPress. 
