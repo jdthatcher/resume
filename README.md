@@ -11,7 +11,7 @@ To work for and with like minded professionals that will develop solutions that 
 - Dates Employed: Jul 2012 -  Present.
   - Designed and developed the firm's intranet. 
   - Designed and developed all internal applications (floor maps, directories, business solutions).
-  - Tool set: VS code, XD, Photoshop, Illustrator, WordPress. 
+  - Tool set: VS code, XD, Photoshop, Illustrator, WordPress, Github. 
   - Primary Languages: CSS (SCSS) HTML, VUE, Angular.
 ### Freelance Creative Director
 - Company Name: Comsynth (a media agency).
