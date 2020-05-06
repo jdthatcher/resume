@@ -48,7 +48,7 @@ To work for and with like minded professionals that will develop solutions that 
 ### Farm Hand
 - Company Name: Various Local Farms.
 - Dates Employed: June 2010 - Present.
-  - General farm work. Look after over 80 farm yard animals -  Weekend Work for grounding and fun.
+  - General farm work. Oversee 80 farm yard animals -  Weekend Work for grounding and fun.
   - Tool set: Buckets and Wellington Boots.
 ## Personal Information
 - Nationality: British, American.
