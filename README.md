@@ -11,8 +11,8 @@ To work for and with like minded professionals that will develop solutions that 
 - Dates Employed: Jul 2012 -  Present.
   - Designed and developed the firm's intranet. 
   - Designed and developed all internal applications (floor maps, directories, business solutions).
-  - Tool set: VS code, XD, Photoshop, Illustrator, WordPress, Github. 
-  - Primary Languages: CSS (SCSS) HTML, VUE, Angular.
+  - Tool set: VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github,  VUE, Angular. 
+  - Primary Languages: CSS (SCSS) HTML, JS.
 ### Freelance Creative Director
 - Company Name: Comsynth (a media agency).
 - Dates Employed: Mar 2007 - Present.
@@ -30,7 +30,7 @@ To work for and with like minded professionals that will develop solutions that 
   - Songwriter - part of the writing process.
   - Producer -  part of the studio production team.
   - Video creation for live shows and promotional material.
-  - Tool set: Fender P Bass, Ampeg SVT, 8x10, Logic, Reason, ProTools.
+  - Tool set: Fender P Bass, Ampeg SVT, 8x10, Reason, Logic, ProTools.
 ### Partner / Webmaster
 - Company Name: Furious Records (an independent record label).
 - Dates Employed: Jan 1996 - Nov 2009.
@@ -53,6 +53,7 @@ To work for and with like minded professionals that will develop solutions that 
 ## Personal Information
 - Nationality: British, American.
 - Permanent Residence: Franklin, TN, USA.
-- Online: [GitHub](https://github.com/comsynth/resume/) // [LinkedIn](https://www.linkedin.com/in/arkyard/) // [thatcher@comsynth.com](mailto:thatcher@comsynth.com)
+- Online: [GitHub](https://github.com/comsynth/resume/) // [LinkedIn](https://www.linkedin.com/in/arkyard/)
 - Further Listening: [But Enough About Me - Pod Cast](https://podcasts.apple.com/us/podcast/ep-12-jon-thatcher/id1464781115?i=1000454409914)
+- Contact: [thatcher@comsynth.com](mailto:thatcher@comsynth.com) // 615 943 2197
 
