@@ -15,9 +15,9 @@ To work for and with like minded professionals that will develop solutions that 
   - Primary Languages: CSS (SCSS) HTML, JS.
 ### Freelance Creative Director
 - Company Name: Comsynth (a media agency).
-- Dates Employed: Mar 2007 - Present.
+- Dates Employed: Mar 2007 - July 2012.
   - Basic freelance necessities including book keeping and client relations. 
-  - Branding projects including: One Sonic Society, Particle Ceramics, Jonathan Jackson + Enation, Elizabeth Smart, First Class Talent.
+  - Branding projects including: Kia, One Sonic Society, Particle Ceramics, Jonathan Jackson + Enation, Elizabeth Smart, First Class Talent.
   - Learning new technologies when the budget is not flexible enough for outsourcing/collaboration.
   - Tool set: Photoshop, Illustrator, Wordpress.
 ### Professional Musician
