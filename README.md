@@ -11,23 +11,25 @@ To work for and with like minded professionals that will develop solutions that 
 - Dates Employed: Jul 2012 -  Present.
   - Provide frontend web and design services for large regional full service law firm of over 200 attorneys
   - Designed and developed the Waller’s intranet, worked along side attorneys and staff members to determine it's function and usage; Delivered a product that saved to company money and was user friendly whilst preseving its full functionality.
-  - Designed and developed all internal applications for firm, including floor maps, directories, and
-business solutions.
-  - Manage projects using the agile/scrum system worked daily with developers and project managers colaborating using Github repositories.
+  - Designed and developed all internal applications for firm.
+  - Manage projects using the agile/scrum system, worked daily with developers and project managers colaborating using Github repositories.
   - Providing continual monitoring and feedback on the intranet.
-  - Responsible for deisgning and building a signature app to business development specifations to uniform the firms email indentity.
-  - Created an interactive floor map application to the specifactions of the facilities team; Managed application when new offices were added or edited. Formatted and uploaded staff images for brand consistancy
+  - Responsible for designing and building a signature app to business development specifations to uniform the firms email indentity.
+  - Created an interactive floor map application to the specifactions of the facilities team; Managed application when new offices were added or edited. Formatted and uploaded staff images for brand consistancy.
   - Worked closely with attornies to design, develop and manage subsiduary external websites.
   - Worked remotely and succesfully engaged in regular team-based collaboration with 1 to 20 team members,
   - **Tool set**: VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular and React. 
   - **Primary Languages**: CSS (SCSS) HTML, JS.
 ### Freelance Creative Director
 - Company Name: Comsynth (a media agency).
-- Dates Employed: Mar 2007 - July 2012.
+- Dates Employed: Mar 2007 - Present.
+
+  - Oversee and direct all media and creative content for media company focused on __________
+  - Develop and launch branding project for numerous clients/media campaigns, including Kia, One Sonic Society, Particle Ceramics, Jonathan Jackson + Enation, Elizabeth Smart, First Class Talent.
   - Basic freelance necessities including book keeping and client relations. 
-  - Branding projects including: Kia, One Sonic Society, Particle Ceramics, Jonathan Jackson + Enation, Elizabeth Smart, First Class Talent.
+  - Branding projects including: 
   - Learning new technologies when the budget is not flexible enough for outsourcing/collaboration.
-  - Tool set: Photoshop, Illustrator, Wordpress.
+  - **Tool set**: Photoshop, Illustrator, Wordpress.
 ### Professional Musician
 - Company Name: Delirious (a rock band).
 - Record Labels: Furious Records, Virgin Records, Sparrow Records, EMI.
