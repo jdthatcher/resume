@@ -1,6 +1,6 @@
 ![](thatcher.jpg)
 # Jonathan Thatcher 
-### Creative Director - Frontend Developer - Artist
+### Frontend Developer - Creative Director - Artist
 ## Profile
 > A relational creative, that finds beauty in silence and delights in noise. Experienced in working in diverse environments ranging from rock bands to law firms. Well travelled globally and cognitively.
 ## Objectives
