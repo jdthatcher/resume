@@ -4,6 +4,8 @@
 ## Identity, Concept and Branding for Health Insurance Company (Boomerang) - 2020
 ![](examples_of_work/boomerang_v2.png)
 ![](examples_of_work/boomerang_dev.png)
+ - Brief: Create identity and brand for Health Insurance Company
+ - Location: Nashville, TN, USA
 ## Physical and digital packaging for Rock Band (Enation) - 2018
 ![](examples_of_work/Shock%20EP%20-%20Design%20Proof%20(W139).jpeg)
 Design Proof
