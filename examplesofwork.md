@@ -13,8 +13,9 @@ Design Proof
 ### Branding and Website for ceramics company
 ![](examples_of_work/particle%20ceramics%20website.png)
 
-### Child company using design guildlines
-![](examples_of_work/smartdefense_transparent.png)
+### Branding for startup website
+![](examples_of_work/boomerang_v3.png)
+![](examples_of_work/boomerang_v2.png)
 
 ### Branding for startup website
 ![](examples_of_work/steamline%20v3.png)
