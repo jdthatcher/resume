@@ -6,7 +6,7 @@
 ## Primary Languages
 HTML, CSS (SCSS), JS.
 ## Tool set
-VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular and React (and google). 
+VS code, XD, Photoshop, Illustrator, Sharepoint, Github, VUE, Angular, React, WordPress and Squarespace (and google). 
 
 ## Recent Endeavors
 ### Frontend Web Developer
