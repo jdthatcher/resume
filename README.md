@@ -1,6 +1,9 @@
 ![](thatcher.jpg)
 # Jonathan Thatcher 
 ### Frontend Developer - Creative Director - Artist
+
+## Primary Languages: CSS (SCSS) HTML, JS.
+## Tool set: VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular and React. 
 ## Profile
 > A relational creative, that finds beauty in silence and delights in noise. Experienced in working in diverse environments ranging from rock bands to law firms. Well travelled globally and cognitively.
 ## Objectives
