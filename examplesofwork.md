@@ -15,7 +15,7 @@ ___
 
 ### Company Signature Application - 2020
 ![](examples_of_work/signatureapp.png)
-Design Proof
+An application designed and built to uniform company signatures.
 ___
 ### Branding for Music Blog (From Scratch)  -2020
 ![](examples_of_work/fader01.png)
