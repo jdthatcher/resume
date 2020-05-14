@@ -2,11 +2,6 @@
 
 ### Product Design Examples
 physical and digital packaging for music are work for Rock Band (Enation)
-
-
-![](examples_of_work/ab67616d0000b2731ce3147b2c1f189310c1f686.jpg)
-
-Cover
 ![](examples_of_work/Shock%20EP%20-%20Design%20Proof%20(W139).jpeg)
 Design Proof
 
