@@ -11,6 +11,7 @@ VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular
 ### Frontend Web Developer
 - Company Name: Waller Lansden Dortch and Davis (a law firm).
 - Dates Employed: Jul 2012 -  Present.
+
   - Provide frontend web and design services for large regional full service law firm of over 200 attorneys
   - Designed and developed the firm’s intranet, worked alongside attorneys and staff members to determine it's function and usage; Delivered a product that saved to company money and was user friendly whilst preserving its full functionality.
   - Managed, designed and developed all internal applications for firm.
@@ -46,6 +47,7 @@ VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular
 - Company Name: Furious Records (an independent record label).
 - Dates Employed: Jan 1996 - Nov 2009.
 - Employment Duration: 13 yrs.
+
   - Founded, owned and directed a small business.
   - Created and maintained a family of websites. 
   - Ecommerce, email distribution, social media.
@@ -53,12 +55,14 @@ VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular
 ### Live Mix Engineer
 - Company Name: A Marshall Hospitality (a restaurant owner).
 - Dates Employed: June 2010 - June 2018.
+
   - Set up, tore down, mixed live artists.
   - Managed the scheduling of mix engineers.
   - **Tool set**: Ears and people skills.
 ### Farm Hand
 - Company Name: Various Local Farms.
 - Dates Employed: June 2010 - Present.
+
   - General farm work. Oversee 80 farm yard animals -  Weekend work for grounding and fun.
   - **Tool set**: Buckets and Wellington Boots.
 ## Personal Information
