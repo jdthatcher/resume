@@ -3,7 +3,7 @@
 ## Primary Languages
 CSS (SCSS) HTML, JS.
 ## Tool set
-VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular and React. 
+VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular and React (google). 
 ## Profile
 > A relational creative, that finds beauty in silence and delights in noise. Experienced in working in diverse environments ranging from rock bands to law firms. Well travelled globally and cognitively.
 
@@ -22,7 +22,7 @@ VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular
   - Worked closely with attornies to design, develop and manage subsiduary external websites.
   - Worked remotely and succesfully engaged in regular team-based collaboration with 1 to 20 team members,
   - **Tool set**: VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular and React. 
-  - **Primary Languages**: CSS (SCSS) HTML, JS.
+ 
 ### Freelance Creative Director
 - Company Name: Comsynth (a media agency).
 - Dates Employed: Mar 2007 - Present.
@@ -51,7 +51,7 @@ VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular
   - Founded, owned and directed a small business.
   - Created and maintained a family of websites. 
   - Ecommerce, email distribution, social media.
-  - Tool set: Dreamweaver, WordPress, Final cut.
+  - **Tool set**: Dreamweaver, WordPress, Final cut.
 ### Live Mix Engineer
 - Company Name: A Marshall Hospitality (a restaurant owner).
 - Dates Employed: June 2010 - June 2018.
