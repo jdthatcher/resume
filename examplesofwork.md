@@ -4,7 +4,7 @@
 ![](examples_of_work/fader03.png)
 ![](examples_of_work/fader01.png)
 
-![](examples_of_work/fader01s=200)
+![](examples_of_work/fader01.png?thumbnail)
 
 ### Product Design Examples
 physical and digital packaging for music are work for Rock Band (Enation)
