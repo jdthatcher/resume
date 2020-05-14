@@ -1,4 +1,4 @@
-# Examples of Recent work - work in progress 
+# Examples of Recent work
 > For examples of code, please visit https://github.com/comsynth?tab=repositories
 ___
 ### Identity, Concept and Branding for Health Insurance Company (Boomerang) - 2020
@@ -36,8 +36,6 @@ ___
 ![](examples_of_work/streamline%20wire.png)
 ![](examples_of_work/streamline-%20lines.png)
 ___
-http://www.onehundredminutemedia.com/about.php
-
 
 #### thatcher@comsynth.com | 615 943 2197
 
