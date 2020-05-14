@@ -20,7 +20,7 @@ VS code, XD, Photoshop, Illustrator, Sharepoint, Github, VUE, Angular, React, Wo
   - Providing continual monitoring, development and feedback on the intranet.
   - Responsible for designing and building a signature app to business development specifations to uniform the firms email indentity.
   - Created and managed an interactive floor map application to the specifactions of the facilities team.
-  - Worked closely with attornies to design, develop and manage subsiduary external websites.
+  - Worked closely with attorneys to design, develop and manage subsiduary external websites.
   - Worked remotely and succesfully engaged in regular team-based collaboration with 1 to 20 team members.
   - **Tool set: VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular and React**. 
 ### Freelance Creative Director
