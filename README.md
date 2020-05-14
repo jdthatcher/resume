@@ -56,10 +56,10 @@ To work for and with like minded professionals that will develop solutions that 
 - Online: [GitHub](https://github.com/comsynth/resume/) // [LinkedIn](https://www.linkedin.com/in/arkyard/)
 - Further Listening: [But Enough About Me - Pod Cast](https://podcasts.apple.com/us/podcast/ep-12-jon-thatcher/id1464781115?i=1000454409914)
 
----
 
-### Examples of Work
+
+## Examples of Work
 https://github.com/comsynth/resume/blob/master/examplesofwork.md
-___
+
 - Contact: [thatcher@comsynth.com](mailto:thatcher@comsynth.com) // (+1) **615 943 2197**
 
