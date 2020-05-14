@@ -37,6 +37,7 @@ VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular
 - Record Labels: Furious Records, Virgin Records, Sparrow Records, EMI.
 - Dates Employed: Apr 1997 - Nov 2009. 
 - Employment Duration: 12 yrs.
+
   - Bass Player - studio and touring .
   - Webmaster - created and maintained band website.
   - Songwriter - part of the writing process.
@@ -70,8 +71,6 @@ VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular
 - Permanent Residence: Franklin, TN, USA.
 - Online: [GitHub](https://github.com/comsynth/resume/) // [LinkedIn](https://www.linkedin.com/in/arkyard/)
 - Further Listening: [But Enough About Me - Pod Cast](https://podcasts.apple.com/us/podcast/ep-12-jon-thatcher/id1464781115?i=1000454409914)
-
-
 
 ## Examples of Work
 https://github.com/comsynth/resume/blob/master/examplesofwork.md
