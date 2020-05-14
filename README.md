@@ -61,5 +61,12 @@ To work for and with like minded professionals that will develop solutions that 
 ## Examples of Work
 https://github.com/comsynth/resume/blob/master/examplesofwork.md
 
-- Contact: [thatcher@comsynth.com](mailto:thatcher@comsynth.com) // (+1) **615 943 2197**
+## References
+Doug Liens - CTO waller // 615 850 8693
+Joel Lawler - Senior Developer Duff and Phelps // 615 384 1181
+Michael Smallbone - Attorney // 615 260 2413
+Richard Jackson - Designer // 818 512 0651 richardlee529@mac.com
+
+## Contact Information
+[thatcher@comsynth.com](mailto:thatcher@comsynth.com) // (+1) **615 943 2197**
 
