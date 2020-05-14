@@ -12,6 +12,11 @@ ___
 ![](examples_of_work/Shock%20EP%20-%20Design%20Proof%20(W139).jpeg)
 Design Proof
 ___
+
+### Company Signature Application - 2020
+![](examples_of_work/signatureapp.png)
+Design Proof
+___
 ### Branding for Music Blog (From Scratch)  -2020
 ![](examples_of_work/fader01.png)
 ___
