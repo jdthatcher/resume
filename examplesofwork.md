@@ -1,8 +1,8 @@
 # Examples of Recent work - work in progress
 
-### Branding forMusic Blog
-![](examples_of_work/faderv3.png)
-![](examples_of_work/faderv1.png)
+### Branding for Music Blog
+![](examples_of_work/fader03.png)
+![](examples_of_work/fader01.png)
 
 ### Product Design Examples
 physical and digital packaging for music are work for Rock Band (Enation)
