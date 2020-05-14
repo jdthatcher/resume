@@ -18,10 +18,10 @@ ___
 An application designed and built to uniform company signatures.
 ___
 
-### Branding for Art Collection (Four Walls, One Table)  -2018
+### Branding for Art Collection (Four Walls, One Table)  - 2018
 ![](examples_of_work/four%20walls%20flyer.png)
 ___
-### Branding for Music Blog (From Scratch)  -2020
+### Branding for Music Blog (From Scratch) - 2020
 ![](examples_of_work/fader01.png)
 ___
 ### Branding and Website for ceramics company (Particle Ceramics) - 2019
