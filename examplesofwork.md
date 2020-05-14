@@ -1,7 +1,7 @@
 # Examples of Recent work - work in progress
 > For examples of code, please visit https://github.com/comsynth?tab=repositories
 
-### Branding for Music Blog (From Scratch)
+### **Branding for Music Blog** (From Scratch)
 ![](examples_of_work/fader01.png)
 
 ### Physical and digital packaging for Rock Band (Enation)
