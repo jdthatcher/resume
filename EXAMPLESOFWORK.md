@@ -56,7 +56,7 @@ An application
  - Brief: Create brand and look ad feel for Wealth Management Company
  - Location: Adrian, MI
  - Date: 2017
- /
+ - http://www.comsynth.com/Asymmetric/index.html
 
 ## XD wire frame examples 
 ![](examples_of_work/streamline%20wire.png)
