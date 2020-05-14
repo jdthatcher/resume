@@ -18,7 +18,7 @@
 ## Company Signature Application
 ![](examples_of_work/signatureapp.png)
  - Client: Waller
- - Brief: Design and built application to uniform company signatures.
+ - Brief: Design and built one page application to uniform company signatures.
  - Location: Nashville, TN, USA
  - Colaborator: Fox Fuel Media
  - Date: 2020
@@ -46,7 +46,7 @@ An application
 ## Branding for Application
 ![](examples_of_work/steamline%20v3.png)
 - Client: Waller
- - Brief: Create brand for web application
+ - Brief: Create brand and look ad feel for web application
  - Location: Nashville, TN
  - Date: 2019
 
