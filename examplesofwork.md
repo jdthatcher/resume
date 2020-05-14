@@ -13,7 +13,7 @@ Design Proof
 ### Branding and Website for ceramics company
 ![](examples_of_work/particle%20ceramics%20website.png)
 
-### Branding for startup website
+### Branding for Health Insurance Company
 ![](examples_of_work/boomerang_v3.png)
 ![](examples_of_work/boomerang_v2.png)
 
