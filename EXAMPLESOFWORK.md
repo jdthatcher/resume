@@ -43,7 +43,7 @@ An application
  - Location: Franklin, TN
  - Date: 2018
   - https://www.particleceramics.com/
-## Branding for startup website
+## Branding for Application
 ![](examples_of_work/steamline%20v3.png)
 - Client: Waller
  - Brief: Create brand for web application
