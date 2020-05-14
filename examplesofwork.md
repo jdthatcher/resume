@@ -8,14 +8,14 @@
  - Brief: Create identity and brand for Health Insurance Company
  - Location: Nashville, TN, USA
  - Date: 2020
-## Physical and digital packaging for Rock Band (Enation) - 2018
+## Physical and digital packaging for Rock Band
 ![](examples_of_work/Shock%20EP%20-%20Design%20Proof%20(W139).jpeg)
  - Client: Enation
  - Brief: Design physical and digital packaging for music release.
  - Location: Nashville, TN, USA
  - Colaborator: Richard Jackson @ Fifo
  - Date: 2018
-## Company Signature Application - 2020
+## Company Signature Application
 ![](examples_of_work/signatureapp.png)
  - Client: Waller
  - Brief: Design and built application to uniform company signatures.
@@ -30,13 +30,13 @@ An application
  - Location: Nashville, TN, USA
  - Date: 2018
 
-## Branding for Music Blog (From Scratch) 
+## Branding for Music Blog
 ![](examples_of_work/fader01.png)
 - Client: Jack Siggs - writer
  - Brief: Create identity and brand for music blog
  - Location: London, UK
  - Date: 2020
-## Branding and Website for ceramics company
+## Branding and Website for Ceramics Company
 ![](examples_of_work/particle%20ceramics%20website.png)
 - Client: Particle Ceramics
  - Brief: Create brand for ceramics company
