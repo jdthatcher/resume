@@ -51,7 +51,7 @@ An application
  - Date: 2019
  /examples_of_work/awm_final_downer.png
 ## Branding and Website
-![](examples_of_work/awm_final_downer.png)
+![](examples_of_work/awm.png)
 - Client: Asymmetric Weath Management
  - Brief: Create brand and Website for Wealth Management Company
  - Location: Adrian, MI
