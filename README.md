@@ -13,12 +13,12 @@ To work for and with like minded professionals that will develop solutions that 
 - Company Name: Waller Lansden Dortch and Davis (a law firm).
 - Dates Employed: Jul 2012 -  Present.
   - Provide frontend web and design services for large regional full service law firm of over 200 attorneys
-  - Designed and developed the Waller’s intranet, worked along side attorneys and staff members to determine it's function and usage; Delivered a product that saved to company money and was user friendly whilst preseving its full functionality.
-  - Designed and developed all internal applications for firm.
-  - Manage projects using the agile/scrum system, worked daily with developers and project managers colaborating using Github repositories.
-  - Providing continual monitoring and feedback on the intranet.
+  - Designed and developed the firms’s intranet, worked along side attorneys and staff members to determine it's function and usage; Delivered a product that saved to company money and was user friendly whilst preseving its full functionality.
+  - Managed, designed and developed all internal applications for firm.
+  - Manage projects using the agile/scrum system, worked daily with developers and project managers, colaborating using Github repositories.
+  - Providing continual monitoring, development and feedback on the intranet.
   - Responsible for designing and building a signature app to business development specifations to uniform the firms email indentity.
-  - Created an interactive floor map application to the specifactions of the facilities team; Managed application when new offices were added or edited. Formatted and uploaded staff images for brand consistancy.
+  - Created and managed an interactive floor map application to the specifactions of the facilities team.
   - Worked closely with attornies to design, develop and manage subsiduary external websites.
   - Worked remotely and succesfully engaged in regular team-based collaboration with 1 to 20 team members,
   - **Tool set**: VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular and React. 
