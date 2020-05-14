@@ -6,8 +6,7 @@ CSS (SCSS) HTML, JS.
 VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular and React. 
 ## Profile
 > A relational creative, that finds beauty in silence and delights in noise. Experienced in working in diverse environments ranging from rock bands to law firms. Well travelled globally and cognitively.
-## Objectives
-To work for and with like minded professionals that will develop solutions that make this world a little better. To create, connect and belong within thriving workplace communities.
+
 ## Recent Endeavors
 ### Frontend Web Developer
 - Company Name: Waller Lansden Dortch and Davis (a law firm).
@@ -78,6 +77,9 @@ https://github.com/comsynth/resume/blob/master/examplesofwork.md
 - Joel Lawler - Senior Developer Duff and Phelps // 615 384 1181
 - Michael Smallbone - Attorney // 615 260 2413
 - Richard Jackson - Designer // 818 512 0651 richardlee529@mac.com
+
+## Objectives
+> To work for and with like minded professionals that will develop solutions that make this world a little better. To create, connect and belong within thriving workplace communities.
 
 ## Contact Information: [thatcher@comsynth.com](mailto:thatcher@comsynth.com) // (+1) **615 943 2197**
 
