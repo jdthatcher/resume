@@ -1,4 +1,4 @@
-# Examples of work
+# Examples of Work
 > For examples of code, please visit https://github.com/comsynth?tab=repositories
 ## Identity, Concept and Branding for Health Insurance Company (Boomerang) - 2020
 ![](examples_of_work/boomerang_v2.png)
