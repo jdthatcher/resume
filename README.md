@@ -1,5 +1,5 @@
 ![](thatcher.jpg)
-# Jonathan Thatcher // Frontend Developer - Creative Directort
+# Jonathan Thatcher // Frontend Developer - Creative Director
 ## Primary Languages
 CSS (SCSS) HTML, JS.
 ## Tool set
@@ -13,7 +13,7 @@ To work for and with like minded professionals that will develop solutions that 
 - Company Name: Waller Lansden Dortch and Davis (a law firm).
 - Dates Employed: Jul 2012 -  Present.
   - Provide frontend web and design services for large regional full service law firm of over 200 attorneys
-  - Designed and developed the firms’s intranet, worked along side attorneys and staff members to determine it's function and usage; Delivered a product that saved to company money and was user friendly whilst preseving its full functionality.
+  - Designed and developed the firm’s intranet, worked alongside attorneys and staff members to determine it's function and usage; Delivered a product that saved to company money and was user friendly whilst preserving its full functionality.
   - Managed, designed and developed all internal applications for firm.
   - Manage projects using the agile/scrum system, worked daily as part of a development team, colaborating using Github repositories.
   - Providing continual monitoring, development and feedback on the intranet.
@@ -28,7 +28,7 @@ To work for and with like minded professionals that will develop solutions that 
 - Dates Employed: Mar 2007 - Present.
 
   - Oversee and direct all media and creative content for media company.
-  - Develop and launch branding project for numerous clients/media campaigns, including Kia, One Sonic Society, Particle Ceramics, Jonathan Jackson + Enation, Elizabeth Smart, First Class Talent.
+  - Develop and launch branding project for numerous clients/media campaigns, including: Kia, One Sonic Society, Particle Ceramics, Jonathan Jackson + Enation, Elizabeth Smart, First Class Talent.
   - Basic freelance necessities including book keeping and client relations. 
   - Learning new technologies when the budget is not flexible enough for outsourcing/collaboration.
   - **Tool set**: Photoshop, Illustrator, Wordpress and Squarespace.
