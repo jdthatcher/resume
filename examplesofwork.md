@@ -1,4 +1,5 @@
 # Examples of Recent work - work in progress
+> for examples of code, please visit https://github.com/comsynth?tab=repositories
 
 ### Branding for Music Blog
 ![](examples_of_work/fader03.png)
