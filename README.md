@@ -1,5 +1,6 @@
 ![](thatcher.jpg)
 # Jonathan Thatcher // Frontend Developer - Creative Director
+#### Contact Information: [thatcher@comsynth.com](mailto:thatcher@comsynth.com) // (+1) **615 943 2197**
 ## Primary Languages
 CSS (SCSS) HTML, JS.
 ## Tool set
