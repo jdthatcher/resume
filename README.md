@@ -31,7 +31,7 @@ VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular
   - Develop and launch branding project for numerous clients/media campaigns, including: Kia, One Sonic Society, Particle Ceramics, Jonathan Jackson + Enation, Elizabeth Smart, First Class Talent.
   - Basic freelance necessities including book keeping and client relations. 
   - Learning new technologies when the budget is not flexible enough for outsourcing/collaboration.
-  - **Tool set**: Photoshop, Illustrator, Wordpress and Squarespace.
+  - **Tool set: Photoshop, Illustrator, Wordpress and Squarespace.**
 ### Professional Musician
 - Company Name: Delirious (a rock band).
 - Record Labels: Furious Records, Virgin Records, Sparrow Records, EMI.
