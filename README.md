@@ -14,12 +14,13 @@ To work for and with like minded professionals that will develop solutions that 
   - Designed and developed all internal applications for firm, including floor maps, directories, and
 business solutions.
   - Manage projects using the agile/scrum system worked daily with developers and project managers colaborating using Github repositories.
-  -Providing continual monitoring and feedback on the intranet.
-  - Responsible for deisgning and building a signature app to business development specifations to uniform the firms email indentiy.   -   - Created an interactive floor map application to the specifactions of the facilities team; Managed application when new offices were added or edited. Formatted and uploaded staff images for brand consistancy
-  - Worked closely with Attornies to design, develop and manage subsiduary external websites.
+  - Providing continual monitoring and feedback on the intranet.
+  - Responsible for deisgning and building a signature app to business development specifations to uniform the firms email indentity.
+  - Created an interactive floor map application to the specifactions of the facilities team; Managed application when new offices were added or edited. Formatted and uploaded staff images for brand consistancy
+  - Worked closely with attornies to design, develop and manage subsiduary external websites.
   - Worked remotely and succesfully engaged in regular team-based collaboration with 1 to 20 team members,
-  - Tool set: VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular and React. 
-  - Primary Languages: CSS (SCSS) HTML, JS.
+  - **Tool set**: VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular and React. 
+  - **Primary Languages**: CSS (SCSS) HTML, JS.
 ### Freelance Creative Director
 - Company Name: Comsynth (a media agency).
 - Dates Employed: Mar 2007 - July 2012.
