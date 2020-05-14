@@ -53,7 +53,7 @@ An application
 ## Branding and Website
 ![](examples_of_work/awm_final_downer.png)
 - Client: Asymmetric Weath Management
- - Brief: Create brand and look ad feel for Wealth Management Company
+ - Brief: Create brand and Website for Wealth Management Company
  - Location: Adrian, MI
  - Date: 2017
  - http://www.comsynth.com/Asymmetric/index.html
