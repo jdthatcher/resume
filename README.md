@@ -1,7 +1,5 @@
 ![](thatcher.jpg)
-# Jonathan Thatcher 
-### Frontend Developer - Creative Director - Artist
-
+# Jonathan Thatcher // Frontend Developer - Creative Director - Artist
 ## Primary Languages
 CSS (SCSS) HTML, JS.
 ## Tool set
