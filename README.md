@@ -22,7 +22,7 @@ VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular
   - Created and managed an interactive floor map application to the specifactions of the facilities team.
   - Worked closely with attornies to design, develop and manage subsiduary external websites.
   - Worked remotely and succesfully engaged in regular team-based collaboration with 1 to 20 team members.
-  - **Tool set**: VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular and React. 
+  - **Tool set: VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular and React**. 
 ### Freelance Creative Director
 - Company Name: Comsynth (a media agency).
 - Dates Employed: Mar 2007 - Present.
@@ -43,7 +43,7 @@ VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular
   - Songwriter - part of the writing process.
   - Producer -  part of the studio production team.
   - Video creation for live shows and promotional material.
-  - **Tool set**: Fender P Bass, Ampeg SVT, 8x10, Reason, Logic, ProTools.
+  - **Tool set: Fender P Bass, Ampeg SVT, 8x10, Reason, Logic and ProTools.**
 ### Partner / Webmaster
 - Company Name: Furious Records (an independent record label).
 - Dates Employed: Jan 1996 - Nov 2009.
@@ -52,7 +52,7 @@ VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular
   - Founded, owned and directed a small business.
   - Created and maintained a family of websites. 
   - Ecommerce, email distribution, social media.
-  - **Tool set**: Dreamweaver, WordPress, Final cut.
+  - **Tool set: Dreamweaver, WordPress and Final cut.**
 ### Live Mix Engineer
 - Company Name: A Marshall Hospitality (a restaurant owner).
 - Dates Employed: June 2010 - June 2018.
@@ -65,7 +65,7 @@ VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular
 - Dates Employed: June 2010 - Present.
 
   - General farm work. Oversee 80 farm yard animals -  Weekend work for grounding and fun.
-  - **Tool set**: Buckets and Wellington Boots.
+  - **Tool set: Buckets and Wellington Boots.**
 ## Personal Information
 - Nationality: British, American.
 - Permanent Residence: Franklin, TN, USA.
