@@ -8,12 +8,13 @@
 ![](examples_of_work/Shock%20EP%20-%20Design%20Proof%20(W139).jpeg)
 Design Proof
 
+### Branding for Health Insurance Company
+![](examples_of_work/boomerang_v2.png)
+
+
 ### Branding and Website for ceramics company
 ![](examples_of_work/particle%20ceramics%20website.png)
 
-### Branding for Health Insurance Company
-![](examples_of_work/boomerang_v3.png)
-![](examples_of_work/boomerang_v2.png)
 
 ### Branding for startup website
 ![](examples_of_work/steamline%20v3.png)
