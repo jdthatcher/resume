@@ -53,13 +53,6 @@ VS code, XD, Photoshop, Illustrator, Sharepoint, Github, VUE, Angular, React, Wo
   - Created and maintained a family of websites. 
   - Ecommerce, email distribution, social media.
   - **Tool set: Dreamweaver, WordPress and Final cut.**
-### Live Mix Engineer
-- Company Name: A Marshall Hospitality (a restaurant owner).
-- Dates Employed: June 2010 - June 2018.
-
-  - Set up, tore down, mixed live artists.
-  - Managed the scheduling of mix engineers.
-  - **Tool set**: Ears and people skills.
 ### Farm Hand
 - Company Name: Various Local Farms.
 - Dates Employed: June 2010 - Present.
