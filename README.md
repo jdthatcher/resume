@@ -1,5 +1,5 @@
 ![](thatcher.jpg)
-# Jonathan Thatcher // Frontend Developer - Creative Director - Artist
+# Jonathan Thatcher // Frontend Developer - Creative Directort
 ## Primary Languages
 CSS (SCSS) HTML, JS.
 ## Tool set
@@ -15,7 +15,7 @@ To work for and with like minded professionals that will develop solutions that 
   - Provide frontend web and design services for large regional full service law firm of over 200 attorneys
   - Designed and developed the firms’s intranet, worked along side attorneys and staff members to determine it's function and usage; Delivered a product that saved to company money and was user friendly whilst preseving its full functionality.
   - Managed, designed and developed all internal applications for firm.
-  - Manage projects using the agile/scrum system, worked daily with developers and project managers, colaborating using Github repositories.
+  - Manage projects using the agile/scrum system, worked daily as part of a development team, colaborating using Github repositories.
   - Providing continual monitoring, development and feedback on the intranet.
   - Responsible for designing and building a signature app to business development specifations to uniform the firms email indentity.
   - Created and managed an interactive floor map application to the specifactions of the facilities team.
@@ -27,12 +27,11 @@ To work for and with like minded professionals that will develop solutions that 
 - Company Name: Comsynth (a media agency).
 - Dates Employed: Mar 2007 - Present.
 
-  - Oversee and direct all media and creative content for media company focused on __________
+  - Oversee and direct all media and creative content for media company.
   - Develop and launch branding project for numerous clients/media campaigns, including Kia, One Sonic Society, Particle Ceramics, Jonathan Jackson + Enation, Elizabeth Smart, First Class Talent.
   - Basic freelance necessities including book keeping and client relations. 
-  - Branding projects including: 
   - Learning new technologies when the budget is not flexible enough for outsourcing/collaboration.
-  - **Tool set**: Photoshop, Illustrator, Wordpress.
+  - **Tool set**: Photoshop, Illustrator, Wordpress and Squarespace.
 ### Professional Musician
 - Company Name: Delirious (a rock band).
 - Record Labels: Furious Records, Virgin Records, Sparrow Records, EMI.
@@ -43,7 +42,7 @@ To work for and with like minded professionals that will develop solutions that 
   - Songwriter - part of the writing process.
   - Producer -  part of the studio production team.
   - Video creation for live shows and promotional material.
-  - Tool set: Fender P Bass, Ampeg SVT, 8x10, Reason, Logic, ProTools.
+  - **Tool set**: Fender P Bass, Ampeg SVT, 8x10, Reason, Logic, ProTools.
 ### Partner / Webmaster
 - Company Name: Furious Records (an independent record label).
 - Dates Employed: Jan 1996 - Nov 2009.
@@ -57,12 +56,12 @@ To work for and with like minded professionals that will develop solutions that 
 - Dates Employed: June 2010 - June 2018.
   - Set up, tore down, mixed live artists.
   - Managed the scheduling of mix engineers.
-  - Tool set: Ears and people skills.
+  - **Tool set**: Ears and people skills.
 ### Farm Hand
 - Company Name: Various Local Farms.
 - Dates Employed: June 2010 - Present.
   - General farm work. Oversee 80 farm yard animals -  Weekend work for grounding and fun.
-  - Tool set: Buckets and Wellington Boots.
+  - **Tool set**: Buckets and Wellington Boots.
 ## Personal Information
 - Nationality: British, American.
 - Permanent Residence: Franklin, TN, USA.
