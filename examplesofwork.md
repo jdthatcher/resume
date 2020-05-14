@@ -6,7 +6,6 @@ ___
 ![](examples_of_work/boomerang_v2.png)
 ![](examples_of_work/boomerang_dev.png)
 
-
 ___
 
 ### Physical and digital packaging for Rock Band (Enation) - 2018
