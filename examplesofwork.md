@@ -1,4 +1,4 @@
-# Examples of Recent work - work in progress
+# Examples of Recent work - work in progress 
 > For examples of code, please visit https://github.com/comsynth?tab=repositories
 ___
 ### Identity, Concept and Branding for Health Insurance Company (Boomerang) - 2020
@@ -22,5 +22,7 @@ ___
 ### XD wire frame examples
 ![](examples_of_work/streamline%20wire.png)
 ![](examples_of_work/streamline-%20lines.png)
+___
+#### thatcher@comsynth.com | 615 943 2197
 
 
