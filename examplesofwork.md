@@ -1,7 +1,7 @@
 # Examples of Work
 #### Contact Information: [thatcher@comsynth.com](mailto:thatcher@comsynth.com) // (+1) **615 943 2197**
 > For examples of code, please visit https://github.com/comsynth?tab=repositories
-## Identity, Concept and Branding for Health Insurance Company (Boomerang) - 2020
+## Identity, Concept and Branding for Health Insurance Company
 ![](examples_of_work/boomerang_v2.png)
 ![](examples_of_work/boomerang_dev.png)
  - Client: Boomerang Health Insurance
@@ -23,7 +23,7 @@
  - Colaborator: Fox Fuel Media
  - Date: 2020
 An application 
-## Branding for Art Collection (Four Walls, One Table) 
+## Branding for Art Collection
 ![](examples_of_work/four%20walls%20flyer.png)
  - Client: Four Walls One Table
  - Brief: Create identity, brand and website art collection 
@@ -36,14 +36,14 @@ An application
  - Brief: Create identity and brand for music blog
  - Location: London, UK
  - Date: 2020
-## Branding and Website for ceramics company (Particle Ceramics) - 2019
+## Branding and Website for ceramics company
 ![](examples_of_work/particle%20ceramics%20website.png)
 - Client: Particle Ceramics
  - Brief: Create brand for ceramics company
  - Location: Franklin, TN
  - Date: 2018
   - https://www.particleceramics.com/
-## Branding for startup website (Waller -Streamline) - 2019
+## Branding for startup website
 ![](examples_of_work/steamline%20v3.png)
 - Client: Waller
  - Brief: Create brand for web application
