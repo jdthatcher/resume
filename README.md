@@ -7,13 +7,12 @@ CSS (SCSS) HTML, JS.
 VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular and React (and google). 
 ## Profile
 > A relational creative, that finds beauty in silence and delights in noise. Experienced in working in diverse environments ranging from rock bands to law firms. Well travelled globally and cognitively.
-
 ## Recent Endeavors
 ### Frontend Web Developer
 - Company Name: Waller Lansden Dortch and Davis (a law firm).
 - Dates Employed: Jul 2012 -  Present.
 
-  - Provide frontend web and design services for large regional full service law firm of over 200 attorneys
+  - Provide frontend web and design services for large regional full service law firm of over 200 attorneys.
   - Designed and developed the firm’s intranet, worked alongside attorneys and staff members to determine it's function and usage; Delivered a product that saved to company money and was user friendly whilst preserving its full functionality.
   - Managed, designed and developed all internal applications for firm.
   - Manage projects using the agile/scrum system, worked daily as part of a development team, colaborating using Github repositories.
@@ -21,9 +20,8 @@ VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular
   - Responsible for designing and building a signature app to business development specifations to uniform the firms email indentity.
   - Created and managed an interactive floor map application to the specifactions of the facilities team.
   - Worked closely with attornies to design, develop and manage subsiduary external websites.
-  - Worked remotely and succesfully engaged in regular team-based collaboration with 1 to 20 team members,
+  - Worked remotely and succesfully engaged in regular team-based collaboration with 1 to 20 team members.
   - **Tool set**: VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular and React. 
- 
 ### Freelance Creative Director
 - Company Name: Comsynth (a media agency).
 - Dates Employed: Mar 2007 - Present.
@@ -72,18 +70,14 @@ VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular
 - Permanent Residence: Franklin, TN, USA.
 - Online: [GitHub](https://github.com/comsynth/resume/) // [LinkedIn](https://www.linkedin.com/in/arkyard/)
 - Further Listening: [But Enough About Me - Pod Cast](https://podcasts.apple.com/us/podcast/ep-12-jon-thatcher/id1464781115?i=1000454409914)
-
 ## Examples of Work
 https://github.com/comsynth/resume/blob/master/examplesofwork.md
-
 ## References
 - Doug Leins - CTO waller // 615 850 8693 doug.leins@wallerlaw.com
 - Joel Lawler - Senior Developer Duff and Phelps // 615 384 1181
 - Michael Smallbone - Attorney // 615 260 2413
 - Richard Jackson - Designer // 818 512 0651 richardlee529@mac.com
-
 ## Objectives
 > To work for and with like minded professionals that will develop solutions that make this world a little better. To create, connect and belong within thriving workplace communities.
-
 #### Contact Information: [thatcher@comsynth.com](mailto:thatcher@comsynth.com) // (+1) **615 943 2197**
 
