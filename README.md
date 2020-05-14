@@ -3,7 +3,7 @@
 ## Primary Languages
 CSS (SCSS) HTML, JS.
 ## Tool set
-VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular and React ( and **google**). 
+VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular and React (and google). 
 ## Profile
 > A relational creative, that finds beauty in silence and delights in noise. Experienced in working in diverse environments ranging from rock bands to law firms. Well travelled globally and cognitively.
 
