@@ -18,7 +18,7 @@ ___
 An application designed and built to uniform company signatures.
 ___
 
-### Branding for Art Collection  -2020
+### Branding for Art Collection (Four Walls, One Table)  -2018
 ![](examples_of_work/four%20walls%20flyer.png)
 ___
 ### Branding for Music Blog (From Scratch)  -2020
