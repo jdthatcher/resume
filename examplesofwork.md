@@ -4,17 +4,20 @@
 ## Identity, Concept and Branding for Health Insurance Company (Boomerang) - 2020
 ![](examples_of_work/boomerang_v2.png)
 ![](examples_of_work/boomerang_dev.png)
+ - Client: Boomerang Health Insurance
  - Brief: Create identity and brand for Health Insurance Company
  - Location: Nashville, TN, USA
  - Date: 2020
 ## Physical and digital packaging for Rock Band (Enation) - 2018
 ![](examples_of_work/Shock%20EP%20-%20Design%20Proof%20(W139).jpeg)
+ - Client: Enation
  - Brief: Design physical and digital packaging for music release.
  - Location: Nashville, TN, USA
  - Colaborator: Richard Jackson @ Fifo
  - Date: 2018
 ## Company Signature Application - 2020
 ![](examples_of_work/signatureapp.png)
+ - Client: Waller
  - Brief: Design and built application to uniform company signatures.
  - Location: Nashville, TN, USA
  - Colaborator: Fox Fuel Media
@@ -22,17 +25,31 @@
 An application 
 ## Branding for Art Collection (Four Walls, One Table) 
 ![](examples_of_work/four%20walls%20flyer.png)
-- Brief: Create identity, brand and website art collection 
+ - Client: Four Walls One Table
+ - Brief: Create identity, brand and website art collection 
  - Location: Nashville, TN, USA
  - Date: 2018
 
-## Branding for Music Blog (From Scratch) - 2020
+## Branding for Music Blog (From Scratch) 
 ![](examples_of_work/fader01.png)
+- Client: Jack Siggs - writer
+ - Brief: Create identity and brand for music blog
+ - Location: London, UK
+ - Date: 2020
 ## Branding and Website for ceramics company (Particle Ceramics) - 2019
 ![](examples_of_work/particle%20ceramics%20website.png)
-###### https://www.particleceramics.com/
+- Client: Particle Ceramics
+ - Brief: Create brand for ceramics company
+ - Location: Franklin, TN
+ - Date: 2018
+  - https://www.particleceramics.com/
 ## Branding for startup website (Waller -Streamline) - 2019
 ![](examples_of_work/steamline%20v3.png)
+- Client: Waller
+ - Brief: Create brand for web application
+ - Location: Nashville, TN
+ - Date: 2019
+
 ## XD wire frame examples 
 ![](examples_of_work/streamline%20wire.png)
 ![](examples_of_work/streamline-%20lines.png)
