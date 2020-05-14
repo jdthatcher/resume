@@ -16,12 +16,14 @@ ___
 ![](examples_of_work/fader01.png)
 ___
 ### Branding and Website for ceramics company (Particle Ceramics) - 2019
+###### https://www.particleceramics.com/
 ![](examples_of_work/particle%20ceramics%20website.png)
 ___
 ### Branding for startup website (Waller -Streamline) - 2019
 ![](examples_of_work/steamline%20v3.png)
 ___
-### XD wire frame examples https://xd.adobe.com/view/ebaf7990-20fc-4ec9-5d16-b7529fcfbda1-9d9e/?fullscreen
+### XD wire frame examples 
+###### https://xd.adobe.com/view/ebaf7990-20fc-4ec9-5d16-b7529fcfbda1-9d9e/?fullscreen
 ![](examples_of_work/streamline%20wire.png)
 ![](examples_of_work/streamline-%20lines.png)
 ___
