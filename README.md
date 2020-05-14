@@ -11,12 +11,12 @@ To work for and with like minded professionals that will develop solutions that 
 - Dates Employed: Jul 2012 -  Present.
   - Provide frontend web and design services for large regional full service law firm of over 200 attorneys
   - Designed and developed the Waller’s intranet, worked along side attorneys and staff members to determine it's function and usage Delivered a product that saved to company money and was user friendly whilst keeping its functionaliy.
-· Designed and developed all internal applications for firm, including floor maps, directories, and
+  - Designed and developed all internal applications for firm, including floor maps, directories, and
 business solutions.
-- Manage projects using the agile/scrum system worked daily with backend developers colaborating using Github repositories.
--Providing continual monitoring and feedback on the intranet.
-- Responsible for deisgning and building a signature app to business development specifations to uniform the firms email indentiy. Created an interactive floor map application to the specifactions of the facilities team; Managed application when new offices were added or edited. Formatted and uploaded staff images for brand consistancy; Designed developed and managed subsiduary external websites under the Attornies direction.
-- Worked remotely and succesfully engaged in regular team-based collaboration with 1 to 20 team members,
+  - Manage projects using the agile/scrum system worked daily with backend developers colaborating using Github repositories.
+  -Providing continual monitoring and feedback on the intranet.
+  - Responsible for deisgning and building a signature app to business development specifations to uniform the firms email indentiy. Created an interactive floor map application to the specifactions of the facilities team; Managed application when new offices were added or edited. Formatted and uploaded staff images for brand consistancy; Designed developed and managed subsiduary external websites under the Attornies direction.
+  - Worked remotely and succesfully engaged in regular team-based collaboration with 1 to 20 team members,
   - Tool set: VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github,  VUE, Angular. 
   - Primary Languages: CSS (SCSS) HTML, JS.
 ### Freelance Creative Director
