@@ -1,13 +1,12 @@
 ![](examples_of_work/thatcher.jpg)
 # Jonathan Thatcher // Frontend Developer - Creative Director
 #### Contact Information: [thatcher@comsynth.com](mailto:thatcher@comsynth.com) // (+1) **615 943 2197**
-## Profile
-> A relational creative, that finds beauty in silence and delights in noise. Experienced in working in diverse environments ranging from rock bands to law firms. Well travelled globally and cognitively.
 ## Primary Languages
 HTML, CSS (SCSS), JS.
 ## Tool set
 VS code, XD, Photoshop, Illustrator, Sharepoint, Github, VUE, Angular, React, WordPress and Squarespace (and google). 
-
+## Profile
+> A relational creative, that finds beauty in silence and delights in noise. Experienced in working in diverse environments ranging from rock bands to law firms. Well travelled globally and cognitively.
 ## Recent Endeavors
 ### Frontend Web Developer
 - Company Name: Waller Lansden Dortch and Davis (a law firm).
