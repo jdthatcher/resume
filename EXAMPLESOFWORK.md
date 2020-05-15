@@ -2,7 +2,7 @@
 #### Contact Information: [thatcher@comsynth.com](mailto:thatcher@comsynth.com) // (+1) **615 943 2197**
 > [Code Repositories](https://github.com/comsynth?tab=repositories) 
 
-> [Wireframes](https://github.com/comsynth/resume/blob/master/WIREFRAMES.mds) 
+> [Wireframes](https://github.com/comsynth/resume/blob/master/WIREFRAMES.md) 
 ## Identity, Concept and Branding for Health Insurance Company
 ![](examples_of_work/boomerang_v2.png)
 ![](examples_of_work/boomerang_dev.png)
