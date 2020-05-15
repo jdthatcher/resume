@@ -29,7 +29,7 @@ VS code, XD, Photoshop, Illustrator, Sharepoint, Github, VUE, Angular, React, Wo
 
   - Oversee and direct all media and creative content for media company.
   - Develop and launch branding project for numerous clients/media campaigns, including: Kia, One Sonic Society, Particle Ceramics, Jonathan Jackson + Enation, Elizabeth Smart, First Class Talent.
-  - Basic freelance necessities including book keeping and client relations. 
+  - All freelance necessities including book keeping and client relations. 
   - Learning new technologies when the budget is not flexible enough for outsourcing/collaboration.
   - **Tool set: Photoshop, Illustrator, Wordpress and Squarespace.**
 ### Professional Musician
