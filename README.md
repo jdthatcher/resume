@@ -73,5 +73,7 @@ VS code, XD, Photoshop, Illustrator, Sharepoint, Github, VUE, Angular, React, Wo
 - Richard Jackson - Designer // 818 512 0651 richardlee529@mac.com
 ## Objectives
 > To work for and with like minded professionals that will develop solutions that make this world a little better. To create, connect and belong within thriving workplace communities.
+
+> [Portfolio](https://github.com/comsynth/resume/blob/master/EXAMPLESOFWORK.md) | [Code Repositories](https://github.com/comsynth?tab=repositories) | [Wireframes](https://github.com/comsynth/resume/blob/master/WIREFRAMES.md) 
 #### Contact Information: [thatcher@comsynth.com](mailto:thatcher@comsynth.com) // (+1) **615 943 2197**
 
