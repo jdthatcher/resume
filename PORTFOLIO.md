@@ -38,7 +38,7 @@ An application
  - Location: London, UK
  - Date: 2020
 ## Branding and Website for Ceramics Company
-![](examples_of_work/particle%20ceramics%20website.png)
+![](examples_of_work/particle.png)
 - Client: Particle Ceramics
  - Brief: Create brand for ceramics company
  - Location: Franklin, TN
