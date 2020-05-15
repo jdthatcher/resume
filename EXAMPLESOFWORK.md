@@ -8,7 +8,7 @@
  - Brief: Create identity and brand for Health Insurance Company
  - Location: Nashville, TN, USA
  - Date: 2020
-## Physical and digital packaging for Rock Band
+## Physical and Digital Packaging for Rock Band
 ![](examples_of_work/Shock%20EP%20-%20Design%20Proof%20(W139).jpeg)
  - Client: Enation
  - Brief: Design physical and digital packaging for music release.
@@ -58,7 +58,7 @@ An application
  - Date: 2017
  - http://www.comsynth.com/Asymmetric/index.html
 
-## XD wire frame examples 
+## XD Wire Frame Examples 
 ![](examples_of_work/streamline%20wire.png)
 ![](examples_of_work/streamline-%20lines.png)
 ###### https://xd.adobe.com/view/ebaf7990-20fc-4ec9-5d16-b7529fcfbda1-9d9e/?fullscreen
