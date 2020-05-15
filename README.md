@@ -65,7 +65,7 @@ VS code, XD, Photoshop, Illustrator, Sharepoint, Github, VUE, Angular, React, Wo
 - Online: [GitHub](https://github.com/comsynth/resume/) // [LinkedIn](https://www.linkedin.com/in/arkyard/)
 - Further Listening: [But Enough About Me - Pod Cast](https://podcasts.apple.com/us/podcast/ep-12-jon-thatcher/id1464781115?i=1000454409914)
 ## Examples of Work 
- [Portfolio](https://github.com/comsynth/resume/blob/master/EXAMPLESOFWORK.md) 
+ [Portfolio](https://github.com/comsynth/resume/blob/master/EXAMPLESOFWORK.md) | [Code Repositories](https://github.com/comsynth?tab=repositories) | [Wireframes](https://github.com/comsynth/resume/blob/master/WIREFRAMES.md) 
 ## References
 - Doug Leins - CTO waller // 615 850 8693 doug.leins@wallerlaw.com
 - Joel Lawler - Senior Developer Duff and Phelps // 615 384 1181
@@ -74,6 +74,5 @@ VS code, XD, Photoshop, Illustrator, Sharepoint, Github, VUE, Angular, React, Wo
 ## Objectives
 > To work for and with like minded professionals that will develop solutions that make this world a little better. To create, connect and belong within thriving workplace communities.
 
-[Portfolio](https://github.com/comsynth/resume/blob/master/EXAMPLESOFWORK.md) | [Code Repositories](https://github.com/comsynth?tab=repositories) | [Wireframes](https://github.com/comsynth/resume/blob/master/WIREFRAMES.md) 
 #### Contact Information: [thatcher@comsynth.com](mailto:thatcher@comsynth.com) // (+1) **615 943 2197**
 
