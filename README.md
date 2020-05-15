@@ -42,7 +42,7 @@ VS code, XD, Photoshop, Illustrator, Sharepoint, Github, VUE, Angular, React, Wo
   - Songwriter - part of the writing process.
   - Producer -  part of the studio production team.
   - Video creation for live shows and promotional material.
-  - **Tool set: Fender P Bass, Ampeg SVT, 8x10, Reason, Logic and ProTools.**
+  - **Tool set: Fender P Bass, Ampeg SVT, 8x10, Z-vex Wooly Mammoth, Reason, Logic and ProTools.**
 ### Partner / Webmaster
 - Company Name: Furious Records (an independent record label).
 - Dates Employed: Jan 1996 - Nov 2009.
