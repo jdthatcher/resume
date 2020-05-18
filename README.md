@@ -17,7 +17,7 @@ VS code, VUE, Angular, React, Photoshop, XD, Illustrator, Sharepoint, Github, Wo
   - Managed, designed and developed internal firm applications.
   - Manage projects using the agile/scrum system, worked daily as part of a development team, collaborating using Github repositories.
   - Providing continual monitoring, development and feedback on the intranet.
-  - Responsible for designing and building a signature app to business development specifications  to uniform the firms email identity.
+  - Responsible for designing and building a signature app to business development specifications  to uniform the firm's email identity.
   - Created and managed an interactive floor map application to the specifications  of the facilities team.
   - Worked closely with attorneys to design, develop and manage subsidiary external websites.
   - Worked remotely and successfully engaged in regular team-based collaboration with 1 to 20 team members.
