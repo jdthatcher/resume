@@ -54,9 +54,9 @@ An application
  ## Design and Develop Intranet
 ![](examples_of_work/wallerville_screenshot.png)
 - Client: Waller
- - Brief: Design and Develop law firm intranet 
+ - Brief: Design and Develop Law Firm Intranet 
  - Location: Nashville, TN
- - Date: 2017
+ - Date: 2016
 
 
 #### Contact Information: [thatcher@comsynth.com](mailto:thatcher@comsynth.com) // (+1) **615 943 2197**
