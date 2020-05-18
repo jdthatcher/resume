@@ -71,7 +71,7 @@ VS code, VUE, Angular, React, Photoshop, XD, Illustrator, Sharepoint, Github, Wo
 - Michael Smallbone - Attorney // 615 260 2413
 - Richard Jackson - Designer // 818 512 0651 richardlee529@mac.com
 ## Objectives
-> To work for and with like minded professionals that will develop solutions that make this world a little better. To create, connect and belong within thriving workplace communities.
+> To work for and with like minded professionals that will develop solutions that make this world a little better. To create, connect and contribute within thriving workplace communities.
 
 #### Contact Information: [thatcher@comsynth.com](mailto:thatcher@comsynth.com) // (+1) **615 943 2197**
 
