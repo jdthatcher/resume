@@ -13,7 +13,7 @@ VS code, VUE, Angular, React, Photoshop, XD, Illustrator, Sharepoint, Github, Wo
 - Dates Employed: Jul 2012 -  Present.
 
   - Provide frontend web and design services for large regional full service law firm of over 200 attorneys.
-  - Designed and developed the firm’s intranet, worked alongside attorneys and staff members to determine its function and usage; Delivered a product that saved to company money and was user friendly whilst preserving its full functionality.
+  - Designed and developed the firm’s intranet, worked alongside attorneys and staff members to determine its function and usage; Delivered a product that saved the company money and was user friendly whilst preserving its full functionality.
   - Managed, designed and developed internal firm applications.
   - Manage projects using the agile/scrum system, worked daily as part of a development team, collaborating using Github repositories.
   - Providing continual monitoring, development and feedback on the intranet.
