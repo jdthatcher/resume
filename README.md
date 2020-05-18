@@ -13,14 +13,14 @@ VS code, VUE, Angular, React, Photoshop, XD, Illustrator, Sharepoint, Github, Wo
 - Dates Employed: Jul 2012 -  Present.
 
   - Provide frontend web and design services for large regional full service law firm of over 200 attorneys.
-  - Designed and developed the firm’s intranet, worked alongside attorneys and staff members to determine it's function and usage; Delivered a product that saved to company money and was user friendly whilst preserving its full functionality.
+  - Designed and developed the firm’s intranet, worked alongside attorneys and staff members to determine its function and usage; Delivered a product that saved to company money and was user friendly whilst preserving its full functionality.
   - Managed, designed and developed internal firm applications.
-  - Manage projects using the agile/scrum system, worked daily as part of a development team, colaborating using Github repositories.
+  - Manage projects using the agile/scrum system, worked daily as part of a development team, collaborating using Github repositories.
   - Providing continual monitoring, development and feedback on the intranet.
-  - Responsible for designing and building a signature app to business development specifations to uniform the firms email indentity.
-  - Created and managed an interactive floor map application to the specifactions of the facilities team.
-  - Worked closely with attorneys to design, develop and manage subsiduary external websites.
-  - Worked remotely and succesfully engaged in regular team-based collaboration with 1 to 20 team members.
+  - Responsible for designing and building a signature app to business development specifications  to uniform the firms email identity.
+  - Created and managed an interactive floor map application to the specifications  of the facilities team.
+  - Worked closely with attorneys to design, develop and manage subsidiary external websites.
+  - Worked remotely and successfully engaged in regular team-based collaboration with 1 to 20 team members.
   - **Tool set: VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular and React**. 
 ### Freelance Creative Director
 - Company Name: Comsynth (a media agency).
