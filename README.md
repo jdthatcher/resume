@@ -37,7 +37,7 @@ VS code, VUE, Angular, React, Photoshop, XD, Illustrator, Sharepoint, Github, Wo
 - Dates Employed: Apr 1997 - Nov 2009. 
 - Employment Duration: 12 yrs.
 
-  - Bass Player - studio and touring .
+  - Bass Player - studio and touring.
   - Webmaster - created and maintained band website.
   - Songwriter - part of the writing process.
   - Producer -  part of the studio production team.
