@@ -50,14 +50,7 @@ An application
  - Brief: Create brand and look ad feel for web application
  - Location: Nashville, TN
  - Date: 2019
- /examples_of_work/awm_final_downer.png
-## Branding and Website
-![](examples_of_work/awm.png)
-- Client: Asymmetric Weath Management
- - Brief: Create brand and Website for Wealth Management Company
- - Location: Adrian, MI
- - Date: 2017
- - http://www.comsynth.com/Asymmetric/index.html
+
 
 #### Contact Information: [thatcher@comsynth.com](mailto:thatcher@comsynth.com) // (+1) **615 943 2197**
 [Resume](https://github.com/comsynth/resume/blob/master/README.md) | [Code Repositories](https://github.com/comsynth?tab=repositories) | [Wireframes](https://github.com/comsynth/resume/blob/master/WIREFRAMES.md) 
