@@ -50,6 +50,13 @@ An application
  - Brief: Create brand and look ad feel for web application
  - Location: Nashville, TN
  - Date: 2019
+ 
+ ## Design and Develop Intranet
+![](examples_of_work/wallerville_screenshot.png)
+- Client: Waller
+ - Brief: Design and Develop law firm intranet 
+ - Location: Nashville, TN
+ - Date: 2017
 
 
 #### Contact Information: [thatcher@comsynth.com](mailto:thatcher@comsynth.com) // (+1) **615 943 2197**
