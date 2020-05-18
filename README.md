@@ -53,7 +53,7 @@ VS code, VUE, Angular, React, Photoshop, XD, Illustrator, Sharepoint, Github, Wo
   - Ecommerce, email distribution, social media.
   - **Tool set: Dreamweaver, WordPress and Final cut.**
 ### Farm Hand
-- Company Name: Various Local Farms.
+- Company Name: McGinniss Farm, Smallbone Farm.
 - Dates Employed: June 2010 - Present.
 
   - General farm work. Oversee 80 farm yard animals -  Weekend work for grounding and fun.
