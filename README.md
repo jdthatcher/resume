@@ -10,7 +10,7 @@ VS code, VUE, Angular, React, Photoshop, XD, Illustrator, Sharepoint, Github, Wo
 ## Recent Endeavors
 ### Frontend Web Developer
 - Company Name: Waller Lansden Dortch and Davis (a law firm).
-- Dates Employed: Jul 2012 -  Present.
+- Dates Employed: Jul 2012 -  June 2020 (let go due to covid 19 cuts).
 
   - Provide frontend web and design services for large regional full service law firm of over 200 attorneys.
   - Designed and developed the firm’s intranet, worked alongside attorneys and staff members to determine its function and usage; Delivered a product that saved the company money and was user friendly whilst preserving its full functionality.
