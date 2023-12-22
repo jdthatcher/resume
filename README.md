@@ -3,7 +3,7 @@
 ## Primary Languages
 HTML, CSS (SCSS), JS.
 ## Tool set
-Shopify, Squarespace, Wix, WordPress, Sharepoint, Lightroom, Premier (video editing) Illustrator, Photoshop, XD,, Github, VS code, VUE, Angular, React, (and google).
+Shopify, Squarespace, Wix, WordPress, Sharepoint, Lightroom, Premier (video editing) Illustrator, Photoshop, XD, Github, VS code, VUE, Angular, React, (and google).
 ## Profile
 > A relational creative, that finds beauty in silence and delights in noise. Experienced in working in diverse environments ranging from rock bands to law firms. Well travelled globally and cognitively.
 ## Recent Endeavors
@@ -65,7 +65,7 @@ Shopify, Squarespace, Wix, WordPress, Sharepoint, Lightroom, Premier (video edit
 - Dates Employed: June 2010 - Present.
 
   - General farm work. Oversee 80 farm yard animals -  Weekend work for grounding and fun.
-- **Tool set: Buckets and Wellington Boots, Smoke.**
+- **Tool set: Buckets, Wellington Boots, Smoke.**
 ## Personal Information
 - Nationality: British, American.
 - Permanent Residence: Franklin, TN, USA.
@@ -74,12 +74,13 @@ Shopify, Squarespace, Wix, WordPress, Sharepoint, Lightroom, Premier (video edit
 ## Portfolio
  [Portfolio](https://github.com/comsynth/resume/blob/master/PORTFOLIO.md) | [Code Repositories](https://github.com/comsynth?tab=repositories) | [Wireframes](https://github.com/comsynth/resume/blob/master/WIREFRAMES.md) 
 ## References
-- Doug Leins - CTO waller // 615 850 8693 doug.leins@wallerlaw.com
 - Joel Lawler - Senior Developer Duff and Phelps // 615 384 1181
 - Michael Smallbone - Attorney // 615 260 2413
 - Richard Jackson - Designer // 818 512 0651 richardlee529@mac.com
 ## Objectives
 > To work for and with like minded professionals that will develop solutions that make this world a little better. To create, connect and contribute within thriving workplace communities.
+> In short, to do great work for great people.
+
 
 #### Contact Information: [thatcher@comsynth.com](mailto:thatcher@comsynth.com) // (+1) **615 943 2197**
 
