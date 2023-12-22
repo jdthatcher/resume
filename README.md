@@ -85,9 +85,10 @@ Shopify, Squarespace, Wix, WordPress, Sharepoint, Adobe Creative Suite, Photosho
 ## Portfolio
  [Portfolio](https://github.com/jdthatcher/resume/blob/master/PORTFOLIO.md) | [Code Repositories](https://github.com/jdthatcher?tab=repositories) | [Wireframes](https://github.com/jdthatcher/resume/blob/master/WIREFRAMES.md) 
 ## References
-- Joel Lawler - Senior Developer Duff and Phelps // 615 384 1181
+- Joel Lawler - Senior Developer at Waller // 615 384 1181 
+- Bob Strachan - Founder of Metacake // 615 739 2014
+- Richard Jackson - CEO of Fifo Agency // 818 512 0651
 - Michael Smallbone - Attorney // 615 260 2413
-- Richard Jackson - Designer // 818 512 0651
 ## Objectives
 > To work for and with like minded professionals that will develop solutions that make this world a little better. To create, connect and contribute within thriving workplace communities.
 > **In short, to do great work for great people.**
