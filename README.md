@@ -4,10 +4,10 @@
 > A relational creative, that finds beauty in silence and delights in noise. Experienced in working in diverse environments ranging from rock bands to law firms.
 > **Well travelled globally and cognitively.**
 ## Professional Endeavors
-### Chief Technical Officer
+### Director of Technology
 - Company: Fifo Agency (a brand, production, digital agency)
 - Dates Employed: February 2023 - Present.
-- Employment Duration: 10 months.
+- Employment Duration: 11 months.
   - Design, build and develop websites,  primarily on the Squarespace platform.
   - Works alongside the Creative Director to develop brands and identities.
   - Brand applications - creates brand specified content from brand guides. Including; business cards, printed materials, powerpoint presentations, pdf’s.
@@ -19,7 +19,7 @@
   - Project Management.
   - Business Creation.
 - Tool set: Squarespace, XD, Photoshop, Lightroom, Premiere, Illustrator, Wix, Slack, Zoom, Asana, Constant Contact, Loomly.
-### Ecommerce Developer
+### Platform Specialist
 - Company: Metacake (an ecommerce agency)
 - Dates Employed: June 2021 - January 2023.
 - Employment Duration: 18 months.
