@@ -1,6 +1,8 @@
 # Examples of Work
 #### Contact Information: [thatcher@comsynth.com](mailto:thatcher@comsynth.com) // (+1) **615 943 2197**
-[Resume](https://github.com/comsynth/resume/blob/master/README.md) | [Code Repositories](https://github.com/comsynth?tab=repositories) | [Wireframes](https://github.com/comsynth/resume/blob/master/WIREFRAMES.md) 
+[Resume](https://github.com/jdthatcher/resume/blob/master/README.md) | [Code Repositories](https://github.com/jdthatcher?tab=repositories) | [Wireframes](https://github.com/jdthatcher/resume/blob/master/WIREFRAMES.md) 
+
+
 
 ## Identity, Concept and Branding for Health Insurance Company
 ![](examples_of_work/boomerang_v2.png)
@@ -60,6 +62,6 @@ An application
 
 
 #### Contact Information: [thatcher@comsynth.com](mailto:thatcher@comsynth.com) // (+1) **615 943 2197**
-[Resume](https://github.com/comsynth/resume/blob/master/README.md) | [Code Repositories](https://github.com/comsynth?tab=repositories) | [Wireframes](https://github.com/comsynth/resume/blob/master/WIREFRAMES.md) 
+[Resume](https://github.com/jdthatcher/resume/blob/master/README.md) | [Code Repositories](https://github.com/jdthatcher?tab=repositories) | [Wireframes](https://github.com/jdthatcher/resume/blob/master/WIREFRAMES.md) 
 
 
