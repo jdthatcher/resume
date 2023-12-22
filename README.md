@@ -18,7 +18,7 @@
   - Creates and implicates social media campaigns.
   - Project Management.
   - Business Creation.
-- Tool set: Squarespace, Wix, Lightroom, Premier (video editing) XD, Photoshop, Illustrator. Slack, Zoom, Asana, Constant Contact, Loomly.
+- Tool set: Squarespace, Wix, Lightroom, Premier (video editing) XD, Photoshop, Illustrator, Slack, Zoom, Asana, Constant Contact, Loomly.
 ### Ecommerce Developer
 - Company Name: Metacake (an ecommerce agency)
 - Dates Employed: June 2021 - January 2023.
