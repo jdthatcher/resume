@@ -4,6 +4,21 @@
 > A relational creative, that finds beauty in silence and delights in noise. Experienced in working in diverse environments ranging from rock bands to law firms.
 > **Well travelled globally and cognitively.**
 ## Recent Endeavors
+### Chief Technical Officer
+- Company Name: Fifo Agency (a Brand, Production, Digital  agency ).
+- Dates Employed:  Feb 2023 - present
+- Employment Duration: 10 months.
+  - Design, build and develop websites,  primarily on the Squarespace platform.
+  - Works alongside the Creative Director to develop brands and identities.
+  - Brand applications - creates brand specified content from brand guides. Including; business cards and printed materials,  powerpoint, pdf’s.
+  - Video Direction.
+  - Video Editing.
+  - Photography - creates and edits content for digital and print.
+  - Creates design systems to automate and reduce repetitive design tasks.
+  - Creates and implicates social media campaigns.
+  - Project Management
+  - Business Creation
+- Tool set: Squarespace, Wix, Lightroom, Premier (video editing) XD, Photoshop, Illustrator. Slack, Zoom, Asana, Constant Contact, Loomly., 
 ### Ecommerce Developer
 - Company Name: Metacake (an E Commerce agency).
 - Dates Employed: June 2021 - Jan 2023.
@@ -50,13 +65,13 @@
 - Dates Employed: Jan 1996 - Nov 2009.
 - Employment Duration: 13 yrs.
   - Founded, owned and directed a small business.
-  - Created and maintained a family of websites. 
+  - Created and maintained a collection of websites. 
   - Ecommerce, email distribution, social media.
 - Tool set: Dreamweaver, WordPress and Final cut.
 ### Farm Hand / Beekeeper
 - Company Name: McGinniss Farm, Smallbone Farm.
 - Dates Employed: June 2010 - Present.
-  - General farm work. Oversee 80 farm yard animals -  Weekend work for grounding and fun.
+  - General farm work. Oversee over 100 farmyard animals -  Weekend work for grounding and fun.
 - Tool set: Buckets, Wellington Boots, Smoke.
 ## Personal Information
 - Nationality: British, American.
@@ -66,7 +81,7 @@
 ## Primary Languages
 HTML, CSS (SCSS), JS.
 ## Tool set
-Shopify, Squarespace, Wix, WordPress, Sharepoint, Photoshop, XD, Lightroom, Premier, Illustrator, Github, VS code, VUE, Angular, React, (and google).
+Shopify, Squarespace, Wix, WordPress, Sharepoint, Adobe Creative Suite, Photoshop, XD, Lightroom, Premier, Illustrator, Github, VS code, VUE, Angular, React, (and google).
 ## Portfolio
  [Portfolio](https://github.com/comsynth/resume/blob/master/PORTFOLIO.md) | [Code Repositories](https://github.com/comsynth?tab=repositories) | [Wireframes](https://github.com/comsynth/resume/blob/master/WIREFRAMES.md) 
 ## References
