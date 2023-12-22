@@ -1,4 +1,4 @@
-# Jonathan Thatcher // Creative
+# Jonathan Thatcher // Modern Creative
 #### Contact Information: [thatcher@comsynth.com](mailto:thatcher@comsynth.com) // (+1) **615 943 2197**
 ## Profile
 > A relational creative, that finds beauty in silence and delights in noise. Experienced in working in diverse environments ranging from rock bands to law firms.
@@ -23,16 +23,16 @@
 - Company Name: Metacake (an ecommerce agency)
 - Dates Employed: June 2021 - January 2023.
 - Employment Duration: 18 months.
-  - Design, build and develop e-commerce  primarily on the Shopify platform.
+  - Design, build and develop e-commerce websites, primarily on the Shopify platform.
   - Managed projects using the agile/scrum system.
   - Created design systems to automate and reduce repetitive design tasks.
-  - Created social media graphics.
+  - Created social media campaigns.
 - Tool set: Shopify, XD, Photoshop, Illustrator. Slack, Zoom, Basecamp.
 ### Frontend Web Developer
 - Company Name: Waller Lansden Dortch and Davis (a law firm)
 - Dates Employed: July 2012 - June 2020 (let go due to covid 19 cuts).
   - Provide frontend web and design services for large regional full service law firm of over 200 attorneys.
-  - Designed and developed the firm’s intranet, worked alongside attorneys and staff members to determine its function and usage; Delivered a product that saved the company money and was user friendly whilst preserving its full functionality.
+  - Designed and developed the firm’s intranet, worked alongside attorneys and staff members to determine its function and usage; Delivered a product that saved the company money and was user-friendly whilst preserving its full functionality.
   - Managed, designed and developed internal firm applications.
   - Manage projects using the agile/scrum system, worked daily as part of a development team, collaborating using Github repositories.
   - Providing continual monitoring, development and feedback on the intranet.
