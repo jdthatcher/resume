@@ -3,7 +3,7 @@
 ## Profile
 > A relational creative, that finds beauty in silence and delights in noise. Experienced in working in diverse environments ranging from rock bands to law firms.
 > **Well travelled globally and cognitively.**
-## Endeavors
+## Professional Endeavors
 ### Chief Technical Officer
 - Company Name: Fifo Agency (a brand, production, digital agency)
 - Dates Employed: February 2023 - present.
