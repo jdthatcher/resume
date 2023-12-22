@@ -5,7 +5,7 @@
 > **Well travelled globally and cognitively.**
 ## Professional Endeavors
 ### Chief Technical Officer
-- Company Name: Fifo Agency (a brand, production, digital agency)
+- Company: Fifo Agency (a brand, production, digital agency)
 - Dates Employed: February 2023 - Present.
 - Employment Duration: 10 months.
   - Design, build and develop websites,  primarily on the Squarespace platform.
@@ -20,7 +20,7 @@
   - Business Creation.
 - Tool set: Squarespace, XD, Photoshop, Lightroom, Premiere, Illustrator, Wix, Slack, Zoom, Asana, Constant Contact, Loomly.
 ### Ecommerce Developer
-- Company Name: Metacake (an ecommerce agency)
+- Company: Metacake (an ecommerce agency)
 - Dates Employed: June 2021 - January 2023.
 - Employment Duration: 18 months.
   - Design, build and develop e-commerce websites, primarily on the Shopify platform.
@@ -29,7 +29,7 @@
   - Created social media campaigns.
 - Tool set: Shopify, XD, Photoshop, Illustrator. Slack, Zoom, Basecamp.
 ### Frontend Web Developer
-- Company Name: Waller Lansden Dortch and Davis (a law firm)
+- Company: Waller Lansden Dortch and Davis (a law firm)
 - Dates Employed: July 2012 - June 2020 (let go due to covid 19 cuts).
   - Provide frontend web and design services for large regional full service law firm of over 200 attorneys.
   - Designed and developed the firm’s intranet, worked alongside attorneys and staff members to determine its function and usage; Delivered a product that saved the company money and was user-friendly whilst preserving its full functionality.
@@ -42,7 +42,7 @@
   - Worked remotely and successfully engaged in regular team-based collaboration with 1 to 20 team members.
 - Tool set: VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular and React. 
 ### Creative Director
-- Company Name: Comsynth (a media agency)
+- Company: Comsynth (a media agency)
 - Dates Employed: March 2007 - Present.
   - Oversee and direct creative content.
   - Developed and launched branding projects for numerous clients/media campaigns, including: Liona Law, Kia, Sony Music, Particle Ceramics, Elizabeth Smart, First Class Talent.
@@ -50,7 +50,7 @@
   - Learning new technologies when the budget is not flexible enough for outsourcing/collaboration.
 - Tool set: Photoshop, Illustrator, Wordpress and Squarespace.
 ### Professional Musician
-- Company Name: Delirious (a rock band)
+- Company: Delirious (a rock band)
 - Record Labels: Furious Records, Virgin Records, Sparrow Records, EMI.
 - Dates Employed: April 1997 - November 2009. 
 - Employment Duration: 12 yrs.
@@ -61,7 +61,7 @@
   - Video creation for live shows and promotional material.
 - Tool set: Passport, Fender P Bass, Ampeg SVT, 8x10, Z-vex Wooly Mammoth, Reason, Logic and ProTools.
 ### Partner / Webmaster
-- Company Name: Furious Records (an independent record label).
+- Company: Furious Records (an independent record label).
 - Dates Employed: January 1996 - November 2009.
 - Employment Duration: 13 yrs.
   - Founded, owned and directed a small business.
@@ -69,7 +69,7 @@
   - Ecommerce, email distribution, social media.
 - Tool set: Dreamweaver, WordPress and Final cut.
 ### Farm Hand / Beekeeper
-- Company Name: McGinniss Farm, Smallbone Farm.
+- Company: McGinniss Farm, Smallbone Farm.
 - Dates Employed: June 2010 - Present.
   - General farm work. Oversee over 100 farmyard animals -  Weekend work for grounding and fun.
 - Tool set: Buckets, Wellington Boots, Smoke.
