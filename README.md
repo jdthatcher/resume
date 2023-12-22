@@ -72,7 +72,7 @@ Shopify, Squarespace, Wix, WordPress, Sharepoint, Photoshop, XD, Lightroom, Prem
 ## References
 - Joel Lawler - Senior Developer Duff and Phelps // 615 384 1181
 - Michael Smallbone - Attorney // 615 260 2413
-- Richard Jackson - Designer // 818 512 0651 richardlee529@mac.com
+- Richard Jackson - Designer // 818 512 0651
 ## Objectives
 > To work for and with like minded professionals that will develop solutions that make this world a little better. To create, connect and contribute within thriving workplace communities.
 > **In short, to do great work for great people.**
