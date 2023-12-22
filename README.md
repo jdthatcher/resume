@@ -5,7 +5,7 @@
 > **Well travelled globally and cognitively.**
 ## Recent Endeavors
 ### Chief Technical Officer
-- Company Name: Fifo Agency (a brand, production, digital agency ).
+- Company Name: Fifo Agency (a brand, production, digital agency).
 - Dates Employed:  Feb 2023 - present
 - Employment Duration: 10 months.
   - Design, build and develop websites,  primarily on the Squarespace platform.
