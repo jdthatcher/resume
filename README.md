@@ -76,14 +76,14 @@
 ## Personal Information
 - Nationality: British, American.
 - Permanent Residence: Franklin, TN, USA.
-- Online: [GitHub](https://github.com/comsynth/resume/) // [LinkedIn](https://www.linkedin.com/in/arkyard/)
+- Online: [GitHub](https://github.com/jdthatcher/resume/) // [LinkedIn](https://www.linkedin.com/in/arkyard/)
 - Further Listening: [But Enough About Me - Pod Cast](https://podcasts.apple.com/us/podcast/ep-12-jon-thatcher/id1464781115?i=1000454409914)
 ## Primary Languages
 HTML, CSS (SCSS), JS.
 ## Tool set
 Shopify, Squarespace, Wix, WordPress, Sharepoint, Adobe Creative Suite, Photoshop, XD, Lightroom, Premiere, Illustrator, Github, VS code, VUE, Angular, React, (and google).
 ## Portfolio
- [Portfolio](https://github.com/comsynth/resume/blob/master/PORTFOLIO.md) | [Code Repositories](https://github.com/comsynth?tab=repositories) | [Wireframes](https://github.com/comsynth/resume/blob/master/WIREFRAMES.md) 
+ [Portfolio](https://github.com/jdthatcher/resume/blob/master/PORTFOLIO.md) | [Code Repositories](https://github.com/jdthatcher?tab=repositories) | [Wireframes](https://github.com/jdthatcher/resume/blob/master/WIREFRAMES.md) 
 ## References
 - Joel Lawler - Senior Developer Duff and Phelps // 615 384 1181
 - Michael Smallbone - Attorney // 615 260 2413
