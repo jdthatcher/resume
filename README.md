@@ -6,7 +6,7 @@
 ## Recent Endeavors
 ### Chief Technical Officer
 - Company Name: Fifo Agency (a brand, production, digital agency)
-- Dates Employed: February 2023 - present
+- Dates Employed: February 2023 - present.
 - Employment Duration: 10 months.
   - Design, build and develop websites,  primarily on the Squarespace platform.
   - Works alongside the Creative Director to develop brands and identities.
@@ -18,7 +18,7 @@
   - Creates and implicates social media campaigns.
   - Project Management.
   - Business Creation.
-- Tool set: Squarespace, Wix, Lightroom, Premier (video editing) XD, Photoshop, Illustrator, Slack, Zoom, Asana, Constant Contact, Loomly.
+- Tool set: Squarespace, Wix, Lightroom, Premiere, XD, Photoshop, Illustrator, Slack, Zoom, Asana, Constant Contact, Loomly.
 ### Ecommerce Developer
 - Company Name: Metacake (an ecommerce agency)
 - Dates Employed: June 2021 - January 2023.
@@ -81,7 +81,7 @@
 ## Primary Languages
 HTML, CSS (SCSS), JS.
 ## Tool set
-Shopify, Squarespace, Wix, WordPress, Sharepoint, Adobe Creative Suite, Photoshop, XD, Lightroom, Premier, Illustrator, Github, VS code, VUE, Angular, React, (and google).
+Shopify, Squarespace, Wix, WordPress, Sharepoint, Adobe Creative Suite, Photoshop, XD, Lightroom, Premiere, Illustrator, Github, VS code, VUE, Angular, React, (and google).
 ## Portfolio
  [Portfolio](https://github.com/comsynth/resume/blob/master/PORTFOLIO.md) | [Code Repositories](https://github.com/comsynth?tab=repositories) | [Wireframes](https://github.com/comsynth/resume/blob/master/WIREFRAMES.md) 
 ## References
