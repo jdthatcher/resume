@@ -8,15 +8,15 @@ Shopify, Squarespace, Wix, WordPress, Sharepoint, Lightroom, Premier (video edit
 ## Profile
 > A relational creative, that finds beauty in silence and delights in noise. Experienced in working in diverse environments ranging from rock bands to law firms. Well travelled globally and cognitively.
 ## Recent Endeavors
-###Ecommerce Developer
+### Ecommerce Developer
 - Company Name: Metacake (an E Commerce agency ).
 - Dates Employed: June 2021 - Jan 2023.
 - Employment Duration: 18 months.
-- Design, build and develop e-commerce  primarily on the Shopify platform
-- Managed projects using the agile/scrum system.
-- Created design systems to automate and reduce repetitive design tasks.
-- Created social media graphics.
-- **Tool set: Shopify, XD, Photoshop, Illustrator. Slack, Zoom, Basecamp,**
+  - Design, build and develop e-commerce  primarily on the Shopify platform
+  - Managed projects using the agile/scrum system.
+  - Created design systems to automate and reduce repetitive design tasks.
+  - Created social media graphics.
+  - **Tool set: Shopify, XD, Photoshop, Illustrator. Slack, Zoom, Basecamp,**
 
 ### Frontend Web Developer
 - Company Name: Waller Lansden Dortch and Davis (a law firm).
