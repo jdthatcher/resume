@@ -41,7 +41,7 @@
   - Worked closely with attorneys to design, develop and manage subsidiary external websites.
   - Worked remotely and successfully engaged in regular team-based collaboration with 1 to 20 team members.
 - Tool set: VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular and React. 
-### Freelance Creative Director
+### Creative Director
 - Company Name: Comsynth (a media agency)
 - Dates Employed: March 2007 - Present.
   - Oversee and direct creative content.
