@@ -1,6 +1,5 @@
 # Jonathan Thatcher // Creative
 #### Contact Information: [thatcher@comsynth.com](mailto:thatcher@comsynth.com) // (+1) **615 943 2197**
-
 ## Profile
 > A relational creative, that finds beauty in silence and delights in noise. Experienced in working in diverse environments ranging from rock bands to law firms.
 > **Well travelled globally and cognitively.**
