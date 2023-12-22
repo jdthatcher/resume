@@ -10,7 +10,7 @@
 - Employment Duration: 10 months.
   - Design, build and develop websites,  primarily on the Squarespace platform.
   - Works alongside the Creative Director to develop brands and identities.
-  - Brand applications - creates brand specified content from brand guides. Including; business cards and printed materials,  powerpoint, pdf’s.
+  - Brand applications - creates brand specified content from brand guides. Including; business cards and printed materials, powerpoint presentations, pdf’s.
   - Video Direction.
   - Video Editing.
   - Photography - creates and edits content for digital and print.
