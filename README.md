@@ -12,7 +12,7 @@
   - Managed projects using the agile/scrum system.
   - Created design systems to automate and reduce repetitive design tasks.
   - Created social media graphics.
-- **Tool set: Shopify, XD, Photoshop, Illustrator. Slack, Zoom, Basecamp,**
+- Tool set: Shopify, XD, Photoshop, Illustrator. Slack, Zoom, Basecamp.
 ### Frontend Web Developer
 - Company Name: Waller Lansden Dortch and Davis (a law firm).
 - Dates Employed: Jul 2012 -  June 2020 (let go due to covid 19 cuts).
@@ -25,7 +25,7 @@
   - Created and managed an interactive floor map application to the specifications  of the facilities team.
   - Worked closely with attorneys to design, develop and manage subsidiary external websites.
   - Worked remotely and successfully engaged in regular team-based collaboration with 1 to 20 team members.
-- **Tool set: VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular and React**. 
+- Tool set: VS code, XD, Photoshop, Illustrator, WordPress, Sharepoint, Github, VUE, Angular and React. 
 ### Freelance Creative Director
 - Company Name: Comsynth (a media agency).
 - Dates Employed: Mar 2007 - Present.
@@ -33,7 +33,7 @@
   - Developed and launched branding projects for numerous clients/media campaigns, including: Liona Law, Kia, Sony Music, Particle Ceramics, Elizabeth Smart, First Class Talent.
   - All freelance necessities including book keeping and client relations. 
   - Learning new technologies when the budget is not flexible enough for outsourcing/collaboration.
-- **Tool set: Photoshop, Illustrator, Wordpress and Squarespace.**
+- Tool set: Photoshop, Illustrator, Wordpress and Squarespace.
 ### Professional Musician
 - Company Name: Delirious (a rock band).
 - Record Labels: Furious Records, Virgin Records, Sparrow Records, EMI.
@@ -44,7 +44,7 @@
   - Songwriter - part of the writing process.
   - Producer -  part of the studio production team.
   - Video creation for live shows and promotional material.
-- **Tool set: Passport, Fender P Bass, Ampeg SVT, 8x10, Z-vex Wooly Mammoth, Reason, Logic and ProTools.**
+- Tool set: Passport, Fender P Bass, Ampeg SVT, 8x10, Z-vex Wooly Mammoth, Reason, Logic and ProTools.
 ### Partner / Webmaster
 - Company Name: Furious Records (an independent record label).
 - Dates Employed: Jan 1996 - Nov 2009.
@@ -52,12 +52,12 @@
   - Founded, owned and directed a small business.
   - Created and maintained a family of websites. 
   - Ecommerce, email distribution, social media.
-- **Tool set: Dreamweaver, WordPress and Final cut.**
+- Tool set: Dreamweaver, WordPress and Final cut.
 ### Farm Hand / Beekeeper
 - Company Name: McGinniss Farm, Smallbone Farm.
 - Dates Employed: June 2010 - Present.
   - General farm work. Oversee 80 farm yard animals -  Weekend work for grounding and fun.
-- **Tool set: Buckets, Wellington Boots, Smoke.**
+- Tool set: Buckets, Wellington Boots, Smoke.
 ## Personal Information
 - Nationality: British, American.
 - Permanent Residence: Franklin, TN, USA.
