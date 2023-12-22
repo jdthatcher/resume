@@ -3,9 +3,10 @@
 ## Primary Languages
 HTML, CSS (SCSS), JS.
 ## Tool set
-Shopify, Squarespace, Wix, WordPress, Sharepoint, Lightroom, Premier (video editing) Illustrator, Photoshop, XD, Github, VS code, VUE, Angular, React, (and google).
+Shopify, Squarespace, Wix, WordPress, Sharepoint, Photoshop, XD, Lightroom, Premier, Illustrator, Github, VS code, VUE, Angular, React, (and google).
 ## Profile
-> A relational creative, that finds beauty in silence and delights in noise. Experienced in working in diverse environments ranging from rock bands to law firms. Well travelled globally and cognitively.
+> A relational creative, that finds beauty in silence and delights in noise. Experienced in working in diverse environments ranging from rock bands to law firms.
+> Well travelled globally and cognitively.
 ## Recent Endeavors
 ### Ecommerce Developer
 - Company Name: Metacake (an E Commerce agency).
