@@ -35,9 +35,8 @@ Shopify, Squarespace, Wix, WordPress, Sharepoint, Photoshop, XD, Lightroom, Prem
 ### Freelance Creative Director
 - Company Name: Comsynth (a media agency).
 - Dates Employed: Mar 2007 - Present.
-
-  - Oversee and direct all media and creative content for media company.
-  - Developed and launched branding projects for numerous clients/media campaigns, including: Kia, One Sonic Society, Particle Ceramics, Jonathan Jackson + Enation, Elizabeth Smart, First Class Talent.
+  - Oversee and direct creative content.
+  - Developed and launched branding projects for numerous clients/media campaigns, including: Liona Law, Kia, Sony Music, Particle Ceramics, Elizabeth Smart, First Class Talent.
   - All freelance necessities including book keeping and client relations. 
   - Learning new technologies when the budget is not flexible enough for outsourcing/collaboration.
 - **Tool set: Photoshop, Illustrator, Wordpress and Squarespace.**
@@ -51,7 +50,7 @@ Shopify, Squarespace, Wix, WordPress, Sharepoint, Photoshop, XD, Lightroom, Prem
   - Songwriter - part of the writing process.
   - Producer -  part of the studio production team.
   - Video creation for live shows and promotional material.
-- **Tool set: Fender P Bass, Ampeg SVT, 8x10, Z-vex Wooly Mammoth, Reason, Logic and ProTools.**
+- **Tool set: Passport, Fender P Bass, Ampeg SVT, 8x10, Z-vex Wooly Mammoth, Reason, Logic and ProTools.**
 ### Partner / Webmaster
 - Company Name: Furious Records (an independent record label).
 - Dates Employed: Jan 1996 - Nov 2009.
