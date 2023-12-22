@@ -6,7 +6,7 @@
 ## Professional Endeavors
 ### Chief Technical Officer
 - Company Name: Fifo Agency (a brand, production, digital agency)
-- Dates Employed: February 2023 - present.
+- Dates Employed: February 2023 - Present.
 - Employment Duration: 10 months.
   - Design, build and develop websites,  primarily on the Squarespace platform.
   - Works alongside the Creative Director to develop brands and identities.
