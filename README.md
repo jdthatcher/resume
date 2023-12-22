@@ -61,7 +61,7 @@
   - Video creation for live shows and promotional material.
 - Tool set: Passport, Fender P Bass, Ampeg SVT, 8x10, Z-vex Wooly Mammoth, Reason, Logic and ProTools.
 ### Partner / Webmaster
-- Company: Furious Records (an independent record label).
+- Company: Furious Records (an independent record label)
 - Dates Employed: January 1996 - November 2009.
 - Employment Duration: 13 yrs.
   - Founded, owned and directed a small business.
