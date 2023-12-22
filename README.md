@@ -5,7 +5,7 @@
 > **Well travelled globally and cognitively.**
 ## Recent Endeavors
 ### Chief Technical Officer
-- Company Name: Fifo Agency (a Brand, Production, Digital  agency ).
+- Company Name: Fifo Agency (a brand, production, digital agency ).
 - Dates Employed:  Feb 2023 - present
 - Employment Duration: 10 months.
   - Design, build and develop websites,  primarily on the Squarespace platform.
@@ -20,7 +20,7 @@
   - Business Creation
 - Tool set: Squarespace, Wix, Lightroom, Premier (video editing) XD, Photoshop, Illustrator. Slack, Zoom, Asana, Constant Contact, Loomly., 
 ### Ecommerce Developer
-- Company Name: Metacake (an E Commerce agency).
+- Company Name: Metacake (an ecommerce agency).
 - Dates Employed: June 2021 - Jan 2023.
 - Employment Duration: 18 months.
   - Design, build and develop e-commerce  primarily on the Shopify platform
