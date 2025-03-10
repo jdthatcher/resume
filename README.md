@@ -7,7 +7,7 @@
 ### Director of Technology
 - Company: Fifo Agency (a brand, production, digital agency)
 - Dates Employed: February 2023 - Present.
-- Employment Duration: 11 months.
+- Employment Duration: 24 months.
   - Design, build, and develop websites.
   - Works alongside the Creative Director to develop brands and identities.
   - Brand applications - creates brand-specified content from brand guides. Including; business cards, printed materials, powerpoint presentations, pdf’s.
